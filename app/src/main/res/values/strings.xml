@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Szakacskonyv</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="username">Felhasználónév</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="register">Regisztrálás</string>
+    <string name="new_account">Új fiók létrehozása</string>
+    <string name="have_account">Már van fiókod?</string>
+    <string name="to_login">Jeletkezz be</string>
+    <string name="email">Email</string>
+    <string name="password">Jelszó</string>
+    <string name="password_again">Jelszó megerősítése</string>
+    <string name="not_registered">Nincs még fiókod?</string>
+    <string name="to_register">Regisztrálj</string>
+
+    <string name="categories">Kategóriák</string>
+    <string name="recipe">Recept</string>
+    <string name="my_recipes">Saját receptek</string>
+    <string name="favorites">Kedvencek</string>
+    <string name="title">Név</string>
+    <string name="image">Image</string>
+    <string name="description">Leírás</string>
+    <string name="ingredients">Hozzávalók</string>
+    <string name="exit">Kilépés</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="search">Keresés</string>
+    <string name="search_hint">Recept vagy hozzávaló</string>
+
+    <string name="add_recipe">Új recept</string>
+    <string name="add_category">Kategória</string>
+    <string name="add_title">Recept neve</string>
+    <string name="add_title_hint">Adja meg a recept nevét</string>
+    <string name="change_image">Kép hozzáadása</string>
+    <string name="add_image">Kép</string>
+    <string name="add_ingredient">Hozzávalók</string>
+    <string name="add_ingredient_hint">Új hozzávaló</string>
+    <string name="add_description">Leírás</string>
+    <string name="add_description_hint">Adja meg a recept elkészítésének lépéseit és leírását</string>
+    <string name="add_save">Mentés</string>
+
+    <string name="cat1">Reggeli</string>
+    <string name="cat2">Leves</string>
+    <string name="cat3">Húsétel</string>
+    <string name="cat4">Halétel</string>
+    <string name="cat5">Tésztaétel</string>
+    <string name="cat6">Egytálétel</string>
+    <string name="cat7">Húsmentes étel</string>
+    <string name="cat8">Köret</string>
+    <string name="cat9">Főzelék</string>
+    <string name="cat10">Saláta</string>
+    <string name="asd">Lekér</string>
+
+    <string-array name="categories">
+        <item>Reggeli</item>
+        <item>Leves</item>
+        <item>Húsétel</item>
+        <item>Halétel</item>
+        <item>Tésztaétel</item>
+        <item>Egytálétel</item>
+        <item>Húsmentes étel</item>
+        <item>Köret</item>
+        <item>Főzelék</item>
+        <item>Saláta</item>
+    </string-array>
+</resources>

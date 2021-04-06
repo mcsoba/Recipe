@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2C2C2C</color>
+    <color name="colorPrimaryDark">#FF3300</color>//Status bar
+    <color name="colorAccent">#2C2C2C</color>
+    <color name="colorBackground">#FAFAFA</color>
+    <color name="colorDarkMode">#2C2C2C</color>
+    <color name="colorOrange">#FF3300</color>
+    <color name="semi_transparent_colorOrange">#33FF3300</color>
+    <color name="colorLightOrange">#FF582E</color>
+    <color name="colorPastel">#FFF2C4</color>
+    <color name="colorGreen">#5FDA64</color>
+    <color name="darkGrey">#2C2C2C</color>
+    <color name="lightGrey">#878787</color>
+    <color name="colorWhite">#FAFAFA</color>
+    <color name="semi_transparent_colorWhite">#BFFAFAFA</color>
+    <color name="colorTransparent">#00FFFFFF</color>
+
+
+</resources>
